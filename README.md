@@ -4,9 +4,7 @@ Repacked [fzf4j](https://github.com/gesundkrank/fzf4j) without Lanterna availabl
 
 ```groovy
 repositories {
-    maven {
-        maven { url 'https://jitpack.io' }
-    }
+    maven { url 'https://jitpack.io' }
 }
 
 dependencies {
